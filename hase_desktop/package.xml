@@ -4,11 +4,10 @@
   <version>0.0.0</version>
   <description>Packages for working with Hase from a ROS desktop.</description>
 
+  <author email="garyservin@gmail.com">Gary Servin</author>
   <maintainer email="garyservin@gmail.com">Gary Servin</maintainer>
 
   <license>BSD</license>
-
-  <url type="website">http://wiki.ros.org/hase_desktop</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>hase_msgs</run_depend>
